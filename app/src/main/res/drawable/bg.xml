@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <gradinet
+        android:startColor="#0000"
+        android:centerColor="#DB0C0C"
+        android:endColor="#ADF3EDED"
+        android:angel="90"
+        android:type="linear"
+        />
+
+
+
+</selector>
